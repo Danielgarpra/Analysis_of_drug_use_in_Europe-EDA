@@ -1,6 +1,6 @@
 # <center>**Analysis of drug use in Europe EDA**</center>
 
-[this link](EDA/img/Cannabis_consumption_trend.png)
+![this link](EDA/img/Cannabis_consumption_trend.png)
 
 
 ## Introduction
