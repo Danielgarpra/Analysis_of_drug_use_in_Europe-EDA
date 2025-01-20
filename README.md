@@ -3,6 +3,8 @@
 ![this link](EDA/img/europe.png)
 
 
+This EDA has been done in Python:
+
 ## Introduction
 
 During the late twentieth century and the early twenty-first century, there has been increased awareness of drug use worldwide. This has led to various measures aimed at controlling the situation, including:
